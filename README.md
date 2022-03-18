@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Luiz Filipe 👋🏾
 
 
 - 🔭 I’m currently working at Accenture mostly with Java/PHP/Javascript
